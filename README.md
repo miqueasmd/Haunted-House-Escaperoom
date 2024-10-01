@@ -1,4 +1,4 @@
-# quest1_escaperoom
+# Quest 1 Escape Room
 
 THE HAUNTED HOUSE
 
