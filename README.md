@@ -6,7 +6,7 @@
 Our mission: to code a text-based game, ‘Escape Room’, using Python skills learned in the bootcamp. 
 By doing this, we’ll reinforce Python theory, enhance teamwork, and problem-solving skills.
 
-![The Haunted House project](/images/HauntedHouse.jpg)
+![The Haunted House project](/images/HauntedHouse.jpg "Project")
 
 
 ## Project Overview (structure, functions, features)
