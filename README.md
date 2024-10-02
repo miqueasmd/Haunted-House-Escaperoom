@@ -6,13 +6,12 @@
 Our mission: to code a text-based game, ‘Escape Room’, using Python skills learned in the bootcamp. 
 By doing this, we’ll reinforce Python theory, enhance teamwork, and problem-solving skills.
 
-![The Haunted House project](/images/HauntedHouse.jpg "Project")
+![The Haunted House project](/images/HauntedHouse.jpg)
 
 
 ## Project Overview (structure, functions, features)
 
 Our team will develop the “Escape Room” game. Implement Python code, manage errors, and test the game to ensure robustness. Each room presents unique challenges. The goal is to escape from the starting room (Game Room) to the end (Outside). Look at the image below and read the game narrative to understand the game logic fully:
-
 ![Example of a simple room layout](/images/escape-room-plan.jpg "Room Layout Example")
 
 ###### Game Narrative
@@ -54,6 +53,20 @@ We also did complicated loops and a lot of user interactions, and learned that f
 
 
 ![Final slide](/images/congrats.jpg "Thank you for playing")  
+
+THE HAUNTED HOUSE
+
+By: Zombies Analytics
+
+Ana Pineda López
+
+Andrea Lafarga
+
+Cristina Denia Carretero
+
+Silvia Alonso
+
+Miqueas Molina Delgado
 
 
 
